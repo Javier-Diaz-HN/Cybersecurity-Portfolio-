@@ -1,2 +1,1 @@
-# Cybersecurity-Portfolio-
-This statement will be updated regularly as I progress through the program and develop new technical skills.
+I am a detail-oriented and analytical aspiring cybersecurity professional from Honduras, currently building a strong foundation through the Google Cybersecurity Certificate. Driven by a commitment to protect organizational assets and people, I combine my problem-solving mindset with an eagerness to master Linux, Bash, and Python to identify vulnerabilities and automate security processes. My goal is to leverage these skills to help organizations strengthen their security posture and respond effectively to emerging threats.
